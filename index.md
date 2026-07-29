@@ -3,7 +3,7 @@ layout: default
 title: ciiu-z 的个人空间
 ---
 
-# 👋 你好，我是 ciiu-z
+# 👋 你好，我是 ciliu-z
 
 大三学生 · 写代码 · 偶尔也发呆
 
