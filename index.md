@@ -2,7 +2,7 @@
 layout: default
 title: ciiu-z · 个人主页
 ---
-
+<!--
 <div style="text-align: center; margin: 2rem 0 3rem 0;">
   <p style="font-size: 1.2rem; color: #5a6a7a; letter-spacing: 1px;">
     ✦ 大三 · 计算机科学与技术 ✦
@@ -54,3 +54,4 @@ title: ciiu-z · 个人主页
 
 📧 <a href="mailto:你的邮箱@qq.com">你的邮箱@qq.com</a>  
 💻 <a href="https://github.com/ciiu-z" target="_blank">GitHub · ciiu-z</a>
+-->
