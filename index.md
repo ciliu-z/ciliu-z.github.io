@@ -1,41 +1,56 @@
 ---
 layout: default
-title: ciiu-z 的个人空间
+title: ciiu-z · 个人主页
 ---
 
-# 👋 你好，我是 ciliu-z
-
-
-大三学生 · 写代码 · 偶尔也发呆
-
----
-
-## 🔬 正在做的
-
-### 科研项目名称（占位）
-*时间 / 导师姓名*
-
-这段留给你写项目介绍。比如：研究了 xxx 问题，用了 xxx 方法。
-
-> 让我觉得有意思的地方是：xxx。
+<div style="text-align: center; margin: 2rem 0 3rem 0;">
+  <p style="font-size: 1.2rem; color: #5a6a7a; letter-spacing: 1px;">
+    ✦ 大三 · 计算机科学与技术 ✦
+  </p>
+</div>
 
 ---
 
-## 💭 最近在想
+## 🔬 科研与项目
 
-最近在翻《xxx》这本书，读到 xxx 的时候觉得挺有意思。
+### 基于深度学习的xxx研究
+*2025.09 – 2026.06 · 指导老师：xxx教授*
 
-> 为什么 xxx 是这样设计的？如果换一种方式会怎样？
+本研究聚焦于xxx问题，采用xxx方法，在xxx数据集上取得了xxx结果。
+
+> 📌 让我觉得有意思的地方是：xxx这个细节，让我对xxx有了新的理解。
 
 ---
 
-## 🧰 偶尔用到的
+### xxx系统设计（课程项目）
+*2025.03 – 2025.06*
 
-`Python` · `Java` · `Git` · `Linux` · `Docker` · `Markdown`
+独立完成了一个xxx系统，实现了xxx功能。项目过程中重点解决了xxx问题。
+
+> 📌 这次实践让我意识到，xxx比我想象中更关键。
+
+---
+
+## 📝 最近在想
+
+最近在重读《xxx》，读到xxx这句话时，觉得和自己最近的思考产生了某种连接。
+
+> 如果xxx是这样设计的，那为什么xxx不是那样？
+
+---
+
+## 🧰 技术标签
+
+<span style="background: #eef2f6; padding: 0.2rem 0.8rem; border-radius: 20px; font-size: 0.9rem;">Python</span>
+<span style="background: #eef2f6; padding: 0.2rem 0.8rem; border-radius: 20px; font-size: 0.9rem;">Java</span>
+<span style="background: #eef2f6; padding: 0.2rem 0.8rem; border-radius: 20px; font-size: 0.9rem;">Git</span>
+<span style="background: #eef2f6; padding: 0.2rem 0.8rem; border-radius: 20px; font-size: 0.9rem;">Linux</span>
+<span style="background: #eef2f6; padding: 0.2rem 0.8rem; border-radius: 20px; font-size: 0.9rem;">Docker</span>
+<span style="background: #eef2f6; padding: 0.2rem 0.8rem; border-radius: 20px; font-size: 0.9rem;">Markdown</span>
 
 ---
 
 ## 📬 联系
 
-📧 你的邮箱@qq.com  
-💻 [GitHub](https://github.com/ciiu-z)
+📧 <a href="mailto:你的邮箱@qq.com">你的邮箱@qq.com</a>  
+💻 <a href="https://github.com/ciiu-z" target="_blank">GitHub · ciiu-z</a>
