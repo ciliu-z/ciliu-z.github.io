@@ -3,7 +3,7 @@ layout: default
 title: 我的主页
 ---
 
-# 👋 你好，我是 ciiu-z
+# 👋 你好，我是 ciliu-z
 
 欢迎来到我的 GitHub Pages 主页！
 
